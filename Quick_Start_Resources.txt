@@ -8,8 +8,8 @@ pwd
 
 Command Listing, Part 2
 git version
-git config --global user.name "Abe Lincoln"
-git config --global user.email "mrabe@git.training"
+git config --global user.name "Jordan Machan"
+git config --global user.email "jordan.machan@gmail.com"
 git config --global --list
 git clone https://github.com/solarhenge/github-demo.git
 cd github-demo
